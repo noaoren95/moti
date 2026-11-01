@@ -10,6 +10,7 @@ Keep it short and kind, and never preachy. Take small steps. Balance beats produ
 - `plans/YYYY-MM-DD.md`: one plan per day. Written by `/plan-day`.
 
 Never store moti preferences anywhere else (not in global or user memory).
+`*.example.md` files are fictional format samples. Never read them as user data, but follow their format.
 
 ## Skills
 - `/onboard`: interview the user and build `data/profile.md`. Run it first. Re-run it to update.

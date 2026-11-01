@@ -10,7 +10,7 @@ Built step by step as a hands-on way to learn AI agent engineering.
 - **Learn:** `/checkin` logs the day and distills patterns into `data/learnings.md` weekly.
 - **Two modes:** *Propose* for the first 7 logged days (explains its reasoning and asks for feedback), then *Smart* (plans confidently from learnings).
 
-Personal data (`data/`, `plans/`) is git-ignored and stays local.
+Personal data (`data/`, `plans/`) is git-ignored and stays local. See the `*.example.md` files for the format, filled with a fictional user.
 
 ## Roadmap
 1. ✅ Claude Code native: `CLAUDE.md` + skills

@@ -1,5 +1,7 @@
-# Personal data: stays local, never pushed
-data/
-plans/
+# Personal data: stays local, never pushed (only *.example.md files are shared)
+data/*
+!data/*.example.md
+plans/*
+!plans/*.example.md
 .claude/settings.local.json
 initial_prompt.txt
