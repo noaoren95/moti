@@ -12,6 +12,8 @@ Built step by step as a hands-on way to learn AI agent engineering.
 
 Personal data (`data/`, `plans/`) is git-ignored and stays local. See the `*.example.md` files for the format, filled with a fictional user.
 
+- **Schedule:** `schedule.md` defines the morning plan and evening check-in times. `/start` turns them into scheduled jobs that push to the Claude phone app (via Remote Control).
+
 ## Roadmap
 1. ✅ Claude Code native: `CLAUDE.md` + skills
 2. ⬜ Python + Claude Agent SDK rebuild

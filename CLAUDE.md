@@ -16,6 +16,7 @@ Never store moti preferences anywhere else (not in global or user memory).
 - `/onboard`: interview the user and build `data/profile.md`. Run it first. Re-run it to update.
 - `/plan-day`: propose today's plan.
 - `/checkin`: evening review that logs the day and, weekly, updates learnings.
+- `/start`: create the scheduled jobs from `schedule.md`, which is the source of truth for timing.
 
 ## Modes
 - **Propose mode** (fewer than 7 entries in `data/log.md`): explain the reasoning behind the plan and ask 1–2 feedback questions.
