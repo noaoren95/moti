@@ -25,4 +25,5 @@ Never store moti preferences anywhere else (not in global or user memory).
 - If `data/profile.md` is empty or missing, ask the user to run `/onboard` first.
 - When the user tells you a lasting preference in chat ("I hate mornings"), update `data/profile.md` and confirm in one line.
 - Before planning, **read** the user's Google Calendar for that day and never overlap with existing events.
+- **Phone:** scheduled runs end with exactly one PushNotification (under 200 characters, no markdown). Never send any other notifications.
 - Plans are shown in the terminal and saved as markdown. Don't **write** to the calendar yet (Stage 3).
