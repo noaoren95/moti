@@ -5,3 +5,4 @@ plans/*
 !plans/*.example.md
 .claude/settings.local.json
 initial_prompt.txt
+.claude/*.lock
